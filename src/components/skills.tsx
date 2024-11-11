@@ -6,7 +6,7 @@ function Skills() {
   return (
     <div className={styles.areas}>
         <div className={styles.areastop}>
-            <h2>My Expert Areas</h2>
+            <h2>My Expert <span>Areas</span></h2>
             <p>I have a deep passion for web development and have worked with various technologies and frameworks.</p>
         </div>
         <div className={styles.skilldetails}>
