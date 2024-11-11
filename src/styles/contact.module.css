@@ -183,7 +183,7 @@ padding: 0px 30px;
 /* Responsive Styling for screens with max-width of 620px */
 @media (max-width: 620px) {
   .form {
-      padding: 0px 10px;
+      padding: 0px 5px;
       max-width: 100%;
   }
 
