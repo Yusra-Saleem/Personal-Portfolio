@@ -14,8 +14,8 @@ export default function ContactPage() {
 
         <div className={styles.info}>
           <h4>Email: <span> yusrasaleem679@gmail.com</span> </h4>
-          <h4>Contact: <span> yusrasaleem679@gmail.com</span> </h4>
-          <h4>Adress: <span> yusrasaleem679@gmail.com</span> </h4>
+          <h4>Contact: <span> +92310-2983718</span> </h4>
+          <h4>Adress: <span> khayaban-e-Muhammad society malir , karachi</span> </h4>
 
           <div className={styles.iconButtons}>
                             <Link href="https://www.linkedin.com/in/yusrasaleem-developer" aria-label="LinkedIn"><FaLinkedin className={styles.icon} /></Link>
